@@ -1,0 +1,27 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(lldb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/operating-system-lab",
+            "args": [],
+            "stopAtEntry": false,
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            // "console": "externalTerminal",
+            "MIMode": "lldb",
+            "preLaunchTask": "make build",  //这里要和tasks.json中的make的label保持一致
+            "targetArchitecture": "x64"
+        }
+
+    ]
+}

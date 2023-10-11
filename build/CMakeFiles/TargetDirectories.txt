@@ -1,0 +1,5 @@
+/Users/liangfang/FL_Documents/Codes/cpp-code/operating-system-lab/build/CMakeFiles/operating-system-lab.dir
+/Users/liangfang/FL_Documents/Codes/cpp-code/operating-system-lab/build/CMakeFiles/package.dir
+/Users/liangfang/FL_Documents/Codes/cpp-code/operating-system-lab/build/CMakeFiles/package_source.dir
+/Users/liangfang/FL_Documents/Codes/cpp-code/operating-system-lab/build/CMakeFiles/edit_cache.dir
+/Users/liangfang/FL_Documents/Codes/cpp-code/operating-system-lab/build/CMakeFiles/rebuild_cache.dir
